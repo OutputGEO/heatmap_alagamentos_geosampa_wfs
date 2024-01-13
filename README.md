@@ -4,7 +4,7 @@
 
 Link para acesso: https://outputgeo.github.io/heatmap_alagamentos_geosampa_wfs/
 
-<p>Conheça também:</p>p>
+<p>Conheça também:</p>
 - GEOSampa: https://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx
 - Catálogo de metadados: https://metadados.geosampa.prefeitura.sp.gov.br/geonetwork/srv/por/catalog.search#/home
 
