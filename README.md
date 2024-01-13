@@ -1,6 +1,6 @@
 # heatmap_alagamentos_geosampa_wfs
 <p><strong>Webmap dinâmico com os alagamentos e inundações ocorridas na Cidade de São Paulo</strong></p>
-<i>Fonte: Mapa Digital da Cidade de São Paulo - GEOSampa/PrefeituraSP</i>
+<p><i>Fonte: Mapa Digital da Cidade de São Paulo - GEOSampa/PrefeituraSP</i></p>
 
 Link para acesso: https://outputgeo.github.io/heatmap_alagamentos_geosampa_wfs/
 
