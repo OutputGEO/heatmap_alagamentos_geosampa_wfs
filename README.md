@@ -12,6 +12,7 @@ Aparência da tela exibida:
 ![image](https://github.com/OutputGEO/heatmap_alagamentos_geosampa_wfs/assets/150393907/1dd19d21-d39b-43a8-8ea4-80fc728945ad)
 
 Visite nosso site: https://outputgeo.com
-![image](https://github.com/OutputGEO/heatmap_alagamentos_geosampa_wfs/assets/150393907/71834da3-04db-44fa-8c67-075c98428e8a)
+![image](https://github.com/OutputGEO/heatmap_alagamentos_geosampa_wfs/assets/150393907/76ccc262-b8ee-4099-b584-bac16ae5d99b)
+
 
 
